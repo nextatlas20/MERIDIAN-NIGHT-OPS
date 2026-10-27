@@ -1,0 +1,4 @@
+antenna_id,display_name,sequence,status
+AX-1,North Ridge 12m,1,ACTIVE
+AX-2,Valley Dish 7m,2,ACTIVE
+AX-3,Commissioning Pad,3,OFFLINE
